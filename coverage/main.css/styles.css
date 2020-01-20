@@ -1,0 +1,22 @@
+/* .row {
+    border: 1px solid #7451EB;
+    padding: 3px;
+  }
+  [class^="col"] {
+    padding: 1rem;
+    border: 2px solid rgba(212, 217, 221, 0.623);
+  } */
+
+  .map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
